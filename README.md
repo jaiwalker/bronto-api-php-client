@@ -1,5 +1,14 @@
 # Bronto_Api
 
+## Composer install
+To help other who want to use this as a composer package.
+
+'''composer require jaiwalker/bronto-api-php-client-v2
+
+## Releases
+* V1.0 
+
+
 Client Library for PHP - ActiveRecord Style Abstraction of the Bronto SOAP API.
 
 This library was created and is maintained by the Bronto Professional Services Engineering team.<br/>
