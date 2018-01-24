@@ -305,6 +305,7 @@ class Bronto_Api_Contact_Row extends Bronto_Api_Row implements Bronto_Api_Delive
                     break;
                 }
             }
+            $this->_data['listIds'] = array_values($this->_data['listIds']);
         }
 
         $this->_modifiedFields['listIds'] = true;
